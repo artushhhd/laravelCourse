@@ -1,6 +1,6 @@
 # laravelCourse
 
-REST API for a course platform built with Laravel + Sanctum. Handles auth, course CRUD, likes/comments and role-based admin moderation. Frontend counterpart: [NextCourse](https://github.com/yourname/NextCourse).
+REST API for a course platform built with Laravel + Sanctum. Handles auth, course CRUD, likes/comments and role-based admin moderation. Frontend counterpart: [NextCourse](https://github.com/artushhhd/NextCourse).
 
 ## Stack
 
